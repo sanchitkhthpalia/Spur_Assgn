@@ -1,0 +1,16 @@
+node_modules
+dist
+.turbo
+.idea
+.DS_Store
+*.log
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+/.env
+/backend/.env
+/frontend/.env
+/backend/dev.db
+/backend/dev.db-journal
+/backend/prisma/*.db
+
