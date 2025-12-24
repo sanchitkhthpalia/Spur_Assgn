@@ -2,6 +2,15 @@
 
 Production-ready MVP for a live chat widget with an AI support agent. Built with React/Vite on the frontend, Express/Prisma/SQLite on the backend, and OpenAI Chat Completions for replies.
 
+## 🚀 Quick Start
+
+**📖 For Complete Deployment Instructions:** See **`QUICK-START.md`** - This is your one-stop deployment guide!
+
+### ☁️ Recommended Deployment Platforms
+- **Render.com** - Easiest one-click deployment (15 minutes to live!)
+- **Vercel + Railway** - Best performance and scalability
+- **Self-hosted servers** - Full control with automated scripts
+
 ## Tech Stack
 - Frontend: React, TypeScript, Vite, plain CSS
 - Backend: Node.js, TypeScript, Express, Prisma ORM, SQLite
